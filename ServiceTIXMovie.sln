@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServiceTIXMovie", "ServiceTIXMovie\ServiceTIXMovie.csproj", "{329CEC25-DA9F-4DFC-A43E-11C17FFD6D8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{329CEC25-DA9F-4DFC-A43E-11C17FFD6D8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{329CEC25-DA9F-4DFC-A43E-11C17FFD6D8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{329CEC25-DA9F-4DFC-A43E-11C17FFD6D8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{329CEC25-DA9F-4DFC-A43E-11C17FFD6D8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB897D1-C5F2-4D18-9B94-0D40BF26DD4B}
+	EndGlobalSection
+EndGlobal
